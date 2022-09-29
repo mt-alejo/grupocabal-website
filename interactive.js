@@ -9,7 +9,7 @@ function toggleMenuBars(){
 
 /* Slide Show */
 
-let slideIndex = 1;
+let slideIndex = 2;
 showSlides(slideIndex);
 
 function plusSlides(n){
